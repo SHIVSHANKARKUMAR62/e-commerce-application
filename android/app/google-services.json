@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140437999157",
+    "project_id": "eccomerceapp-c2c6a",
+    "storage_bucket": "eccomerceapp-c2c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140437999157:android:80f59d06971781aa24ab7c",
+        "android_client_info": {
+          "package_name": "com.example.admineccomerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KxB0LYAE_OXLqn9bTJB2cYMGrc1AAfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140437999157:android:39e83e008a284a2224ab7c",
+        "android_client_info": {
+          "package_name": "com.example.usereccomercemobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KxB0LYAE_OXLqn9bTJB2cYMGrc1AAfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
